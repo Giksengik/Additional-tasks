@@ -1,0 +1,3 @@
+"D:\CLion 2020.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\microbi.dir/objects.a
+D:\comp\mingw64\bin\ar.exe cr CMakeFiles\microbi.dir/objects.a @CMakeFiles\microbi.dir\objects1.rsp
+D:\comp\mingw64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\microbi.dir/objects.a -Wl,--no-whole-archive  -o microbi.exe -Wl,--out-implib,libmicrobi.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\microbi.dir\linklibs.rsp
