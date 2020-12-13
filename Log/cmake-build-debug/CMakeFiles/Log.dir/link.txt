@@ -1,0 +1,3 @@
+"D:\CLion 2020.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Log.dir/objects.a
+D:\comp\mingw64\bin\ar.exe cr CMakeFiles\Log.dir/objects.a @CMakeFiles\Log.dir\objects1.rsp
+D:\comp\mingw64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\Log.dir/objects.a -Wl,--no-whole-archive  -o Log.exe -Wl,--out-implib,libLog.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Log.dir\linklibs.rsp
