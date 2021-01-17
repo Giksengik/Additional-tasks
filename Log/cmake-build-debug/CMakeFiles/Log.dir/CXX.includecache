@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-D:/CLionProjects/Log/main.cpp
+D:/github/Additional tasks/Log/main.cpp
 iostream
 -
 cmath

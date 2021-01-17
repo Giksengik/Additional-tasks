@@ -63,10 +63,10 @@ RM = "D:\CLion 2020.2\bin\cmake\win\bin\cmake.exe" -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = D:\CLionProjects\CifSim
+CMAKE_SOURCE_DIR = "D:\github\Additional tasks\CifSim"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = D:\CLionProjects\CifSim\cmake-build-debug
+CMAKE_BINARY_DIR = "D:\github\Additional tasks\CifSim\cmake-build-debug"
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -93,14 +93,14 @@ clean: CMakeFiles/CifSim.dir/clean
 CMakeFiles/CifSim.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\CifSim.dir\build.make CMakeFiles/CifSim.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\CifSim.dir\build.make CMakeFiles/CifSim.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\CLionProjects\CifSim\cmake-build-debug\CMakeFiles --progress-num=1,2 "Built target CifSim"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\github\Additional tasks\CifSim\cmake-build-debug\CMakeFiles" --progress-num=1,2 "Built target CifSim"
 .PHONY : CMakeFiles/CifSim.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/CifSim.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\CLionProjects\CifSim\cmake-build-debug\CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\github\Additional tasks\CifSim\cmake-build-debug\CMakeFiles" 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/CifSim.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\CLionProjects\CifSim\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\github\Additional tasks\CifSim\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/CifSim.dir/rule
 
 # Convenience name for target.

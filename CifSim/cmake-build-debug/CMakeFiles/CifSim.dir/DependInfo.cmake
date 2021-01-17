@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "D:/CLionProjects/CifSim/main.cpp" "D:/CLionProjects/CifSim/cmake-build-debug/CMakeFiles/CifSim.dir/main.cpp.obj"
+  "D:/github/Additional tasks/CifSim/main.cpp" "D:/github/Additional tasks/CifSim/cmake-build-debug/CMakeFiles/CifSim.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

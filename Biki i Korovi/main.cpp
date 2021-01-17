@@ -46,7 +46,7 @@ int main(){
     ss << num;
     string curNum;
     string numS = ss.str();
-    // cout<<numS<<endl;
+    cout<<numS<<endl;
     while(true){
         cout<<"Введите ваше число";
         cin>>curNum;

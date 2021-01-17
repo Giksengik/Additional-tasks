@@ -1,3 +1,3 @@
-D:/CLionProjects/sdvig/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/CLionProjects/sdvig/cmake-build-debug/CMakeFiles/sdvig.dir
-D:/CLionProjects/sdvig/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/github/Additional tasks/sdvig/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/github/Additional tasks/sdvig/cmake-build-debug/CMakeFiles/sdvig.dir
+D:/github/Additional tasks/sdvig/cmake-build-debug/CMakeFiles/rebuild_cache.dir

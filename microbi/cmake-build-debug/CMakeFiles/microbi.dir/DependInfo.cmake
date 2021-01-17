@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "D:/CLionProjects/microbi/main.cpp" "D:/CLionProjects/microbi/cmake-build-debug/CMakeFiles/microbi.dir/main.cpp.obj"
+  "D:/github/Additional tasks/microbi/main.cpp" "D:/github/Additional tasks/microbi/cmake-build-debug/CMakeFiles/microbi.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

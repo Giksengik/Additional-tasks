@@ -1,3 +1,3 @@
-D:/CLionProjects/Log/cmake-build-debug/CMakeFiles/Log.dir
-D:/CLionProjects/Log/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/CLionProjects/Log/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/github/Additional tasks/Log/cmake-build-debug/CMakeFiles/Log.dir
+D:/github/Additional tasks/Log/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/github/Additional tasks/Log/cmake-build-debug/CMakeFiles/rebuild_cache.dir
