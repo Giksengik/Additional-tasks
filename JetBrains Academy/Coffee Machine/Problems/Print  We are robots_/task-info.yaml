@@ -1,0 +1,19 @@
+type: code
+custom_name: Print "We are robots!"
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    class Main {
+
+        public static main(String args) {
+            System.out.println("We are robots!");
+        }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2505#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Wed, 27 Jan 2021 07:03:44 UTC
+record: -1

@@ -1,0 +1,3 @@
+CoffeeMachineTest.java
+ CoffeeMachineTest
+ TestClue

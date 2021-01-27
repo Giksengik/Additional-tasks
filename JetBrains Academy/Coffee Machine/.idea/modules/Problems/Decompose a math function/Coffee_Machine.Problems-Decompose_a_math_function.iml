@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Problems-Decompose_a_math_function" external.linked.project.path="$MODULE_DIR$/../../../../Problems/Decompose a math function" external.root.project.path="$MODULE_DIR$/../../../.." external.system.id="GRADLE" external.system.module.group="Coffee_Machine" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../Problems/Decompose a math function">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../Problems/Decompose a math function/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../Problems/Decompose a math function/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../Problems/Decompose a math function/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

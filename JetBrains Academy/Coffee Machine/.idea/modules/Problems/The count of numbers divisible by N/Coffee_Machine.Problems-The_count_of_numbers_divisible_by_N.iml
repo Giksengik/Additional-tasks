@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Problems-The_count_of_numbers_divisible_by_N" external.linked.project.path="$MODULE_DIR$/../../../../Problems/The count of numbers divisible by N" external.root.project.path="$MODULE_DIR$/../../../.." external.system.id="GRADLE" external.system.module.group="Coffee_Machine" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../Problems/The count of numbers divisible by N">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../Problems/The count of numbers divisible by N/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../Problems/The count of numbers divisible by N/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../Problems/The count of numbers divisible by N/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
